@@ -1,3 +1,0 @@
-# Desenvolvimento-de-Software-
-
-Cardápio;
